@@ -1,0 +1,3042 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Oblivion v3.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-05-26 04:35:05+0000\n"
+"Last-Translator: nodari <asssssdsa@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../../../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:6
+#@ oblivion
+msgid "Page not found, sorry"
+msgstr ""
+
+#: archive.php:1
+#: search-post.php:1
+#@ oblivion
+msgid "View all posts by"
+msgstr ""
+
+#: archive.php:1
+#: category.php:1
+#: index.php:1
+#: pagebuilder/blocks/news-block.php:113
+#: pagebuilder/blocks/news-blog-block.php:1
+#: pagebuilder/blocks/newsh-block.php:1
+#: pagebuilder/blocks/newst-block.php:1
+#: search-post.php:1
+#: single.php:1
+#: tag.php:1
+#: tmp-1right-sidebar.php:1
+#: tmp-2left-sidebar.php:1
+#: tmp-blog-full.php:130
+#: tmp-blog-full.php:133
+#: tmp-blog-isotope.php:139
+#: tmp-blog-isotope.php:142
+#: tmp-blog-left.php:136
+#: tmp-blog-left.php:139
+#: tmp-blog-right.php:1
+#: widgets/rating/popular-widget.php:50
+#@ One comment
+msgid "No comments"
+msgstr ""
+
+#: archive.php:1
+#: category.php:1
+#: index.php:1
+#: pagebuilder/blocks/news-blog-block.php:1
+#: pagebuilder/blocks/newsh-block.php:1
+#: pagebuilder/blocks/newst-block.php:1
+#: search-post.php:1
+#: single.php:1
+#: tag.php:1
+#: tmp-1right-sidebar.php:1
+#: tmp-2left-sidebar.php:1
+#: tmp-blog-full.php:132
+#: tmp-blog-isotope.php:141
+#: tmp-blog-left.php:138
+#: tmp-blog-right.php:1
+#@ One comment in this post
+msgid "No comments in this post"
+msgstr ""
+
+#: archive.php:1
+#: category.php:1
+#: index.php:1
+#: pagebuilder/blocks/news-blog-block.php:1
+#: search-post.php:1
+#: tag.php:1
+#: tmp-blog-full.php:139
+#: tmp-blog-isotope.php:148
+#: tmp-blog-left.php:145
+#: tmp-blog-right.php:1
+#@ oblivion
+#@ atticus
+msgid "Read more"
+msgstr "read"
+
+#: bbpress/content-single-topic-lead.php:18
+#: bbpress/content-single-topic-lead.php:90
+#@ oblivion
+msgid "Creator"
+msgstr ""
+
+#: bbpress/content-single-topic-lead.php:22
+#: bbpress/content-single-topic-lead.php:94
+#@ oblivion
+msgid "Topic"
+msgstr ""
+
+#: bbpress/content-statistics.php:17
+#@ oblivion
+msgid "Registered Users"
+msgstr ""
+
+#: bbpress/content-statistics.php:22
+#@ oblivion
+msgid "Forums"
+msgstr ""
+
+#: bbpress/content-statistics.php:27
+#@ oblivion
+msgid "Topics"
+msgstr ""
+
+#: bbpress/content-statistics.php:32
+#@ oblivion
+msgid "Replies"
+msgstr ""
+
+#: bbpress/content-statistics.php:37
+#@ oblivion
+msgid "Topic Tags"
+msgstr ""
+
+#: bbpress/content-statistics.php:44
+#@ oblivion
+msgid "Empty Topic Tags"
+msgstr ""
+
+#: bbpress/content-statistics.php:53
+#@ oblivion
+msgid "Hidden Topics"
+msgstr ""
+
+#: bbpress/content-statistics.php:64
+#@ oblivion
+msgid "Hidden Replies"
+msgstr ""
+
+#: bbpress/loop-single-topic.php:63
+#, php-format
+#@ oblivion
+msgid "Started by: %1$s"
+msgstr ""
+
+#: bbpress/loop-single-topic.php:71
+#, php-format
+#@ oblivion
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: chat/recent-comments-widget.php:59
+#: chat/wp-wall-widget-control.php:3
+#: widgets/portfoliowidget/portfoliowdg.php:1
+#: widgets/rating/popular-widget.php:139
+#@ oblivion
+msgid "Title:"
+msgstr ""
+
+#: chat/recent-comments-widget.php:65
+#@ oblivion
+msgid "Number of comments to show:"
+msgstr ""
+
+#: chat/recent-comments-widget.php:68
+#@ oblivion
+msgid "(at most 15)"
+msgstr ""
+
+#: chat/recent-comments-widget.php:83
+#@ oblivion
+msgid "Recent Comments"
+msgstr ""
+
+#: chat/recent-comments-widget.php:105
+#, php-format
+#@ oblivion
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: chat/wp-wall-widget-control.php:2
+#@ oblivion
+msgid "WP Wall options"
+msgstr ""
+
+#: chat/wp-wall-widget-control.php:2
+#@ oblivion
+msgid "page for more options."
+msgstr ""
+
+#: chat/wp-wall-widget.php:30
+#@ oblivion
+msgid "Log in to post a comment."
+msgstr ""
+
+#: chat/wp-wall-widget.php:52
+#: short-comments.php:1
+#@ oblivion
+msgid "Name"
+msgstr ""
+
+#: chat/wp-wall-widget.php:58
+#: short-comments.php:1
+#@ oblivion
+msgid "Email"
+msgstr ""
+
+#: chat/wp-wall-widget.php:66
+#: short-comments.php:1
+#@ oblivion
+msgid "Comment"
+msgstr ""
+
+#: chat/wp-wall.php:225
+#@ oblivion
+msgid "Wall"
+msgstr ""
+
+#: chat/wp-wall.php:226
+#@ oblivion
+msgid "Leave a reply"
+msgstr ""
+
+#: functions/multiple-post-thumbnails/multi-post-thumbnails.php:52
+#, php-format
+#@ multiple-post-thumbnails
+msgid "The 'label' and 'id' values of the 'args' parameter of '%s::%s()' are required"
+msgstr ""
+
+#: functions/multiple-post-thumbnails/multi-post-thumbnails.php:134
+#, php-format
+#@ multiple-post-thumbnails
+msgid "Set as %3$s"
+msgstr ""
+
+#: functions/multiple-post-thumbnails/multi-post-thumbnails.php:359
+#: functions/multiple-post-thumbnails/multi-post-thumbnails.php:360
+#, php-format
+#@ multiple-post-thumbnails
+msgid "Set %s"
+msgstr ""
+
+#: functions/multiple-post-thumbnails/multi-post-thumbnails.php:372
+#, php-format
+#@ multiple-post-thumbnails
+msgid "Remove %s"
+msgstr ""
+
+#: functions.php:33
+#@ oblivion
+msgid "Home sidebar"
+msgstr ""
+
+#: functions.php:35
+#@ oblivion
+msgid "Widgets in this area will be shown in the home page."
+msgstr ""
+
+#: functions.php:42
+#@ oblivion
+msgid "General sidebar"
+msgstr ""
+
+#: functions.php:44
+#@ oblivion
+msgid "General sidebar for use with page builder."
+msgstr ""
+
+#: functions.php:51
+#@ oblivion
+msgid "Blog sidebar"
+msgstr ""
+
+#: functions.php:53
+#@ oblivion
+msgid "Widgets in this area will be shown in the blog sidebar."
+msgstr ""
+
+#: functions.php:60
+#@ oblivion
+msgid "Footer area widgets"
+msgstr ""
+
+#: functions.php:62
+#@ oblivion
+msgid "Widgets in this area will be shown in the footer."
+msgstr ""
+
+#: functions.php:73
+#@ atticus
+msgid "Widgets in this area will be shown in the WooCommerce sidebar."
+msgstr ""
+
+#: functions.php:84
+#@ addict
+msgid "Widgets in this area will be shown in the BuddyPress sidebar."
+msgstr ""
+
+#: functions.php:120
+#@ oblivion
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:181
+#@ oblivion
+msgid "Home"
+msgstr ""
+
+#: functions.php:206
+#@ oblivion
+msgid "Blog"
+msgstr ""
+
+#: functions.php:214
+#: header.php:1
+#@ oblivion
+msgid "Category: "
+msgstr ""
+
+#: functions.php:219
+#: header.php:1
+#@ oblivion
+msgid "Search: "
+msgstr ""
+
+#: functions.php:226
+#: header.php:1
+#@ oblivion
+msgid "Tag: "
+msgstr ""
+
+#: functions.php:229
+#@ oblivion
+msgid "Archive"
+msgstr ""
+
+#: functions.php:381
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:382
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:383
+#: pluginactivation.php:1
+#, php-format
+#@ oblivion
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:384
+#@ oblivion
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:385
+#: pluginactivation.php:1
+#, php-format
+#@ oblivion
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:386
+#: pluginactivation.php:1
+#, php-format
+#@ oblivion
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:387
+#: pluginactivation.php:1
+#, php-format
+#@ oblivion
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:388
+#: pluginactivation.php:1
+#, php-format
+#@ oblivion
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:389
+#: pluginactivation.php:1
+#, php-format
+#@ oblivion
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:390
+#: pluginactivation.php:1
+#, php-format
+#@ oblivion
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:391
+#: pluginactivation.php:1
+#, php-format
+#@ oblivion
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:392
+#: pluginactivation.php:1
+#, php-format
+#@ oblivion
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:393
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:394
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:395
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:396
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:397
+#, php-format
+#@ oblivion
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:474
+#@ oblivion
+msgid "Thanks for your comment. We appreciate your response."
+msgstr ""
+
+#: functions.php:475
+#@ oblivion
+msgid "Please wait a while before posting your next comment!"
+msgstr ""
+
+#: functions.php:476
+#@ oblivion
+msgid "Processing..."
+msgstr ""
+
+#: functions.php:477
+#@ oblivion
+msgid "You might have left one of the fields blank, or be posting too quickly!"
+msgstr ""
+
+#: functions.php:546
+#@ oblivion
+msgid "\\t\\t\\t\\t\\t<span class='unapproved'>Your comment is awaiting moderation.</span>\n"
+msgstr ""
+
+#: functions.php:564
+#, php-format
+#@ oblivion
+msgid "By %1$s on %2$s at %3$s"
+msgstr ""
+
+#: functions.php:568
+#@ oblivion
+msgid "Edit"
+msgstr ""
+
+#: functions.php:569
+#@ oblivion
+msgid "\\t\\t\\t\\t\\t<span class=\"unapproved\">Your trackback is awaiting moderation.</span>\n"
+msgstr ""
+
+#: functions.php:600
+#@ oblivion
+msgctxt "post type general name"
+msgid "My Portfolio"
+msgstr ""
+
+#: functions.php:601
+#@ oblivion
+msgctxt "post type singular name"
+msgid "Portfolio Item"
+msgstr ""
+
+#: functions.php:602
+#@ oblivion
+msgctxt "portfolio item"
+msgid "Add New"
+msgstr ""
+
+#: functions.php:603
+#@ oblivion
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: functions.php:604
+#@ oblivion
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: functions.php:605
+#@ oblivion
+msgid "New Portfolio Item"
+msgstr ""
+
+#: functions.php:606
+#@ oblivion
+msgid "View Portfolio Item"
+msgstr ""
+
+#: functions.php:607
+#@ oblivion
+msgid "Search Portfolio"
+msgstr ""
+
+#: functions.php:608
+#@ oblivion
+msgid "Nothing found"
+msgstr ""
+
+#: functions.php:609
+#@ oblivion
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: functions.php:638
+#@ oblivion
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: functions.php:639
+#@ oblivion
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: functions.php:640
+#@ oblivion
+msgid "Search Category"
+msgstr ""
+
+#: functions.php:641
+#@ oblivion
+msgid "All Categories"
+msgstr ""
+
+#: functions.php:642
+#@ oblivion
+msgid "Parent Category"
+msgstr ""
+
+#: functions.php:643
+#@ oblivion
+msgid "Parent Category:"
+msgstr ""
+
+#: functions.php:644
+#@ oblivion
+msgid "Edit Category"
+msgstr ""
+
+#: functions.php:645
+#@ oblivion
+msgid "Update Category"
+msgstr ""
+
+#: functions.php:646
+#@ oblivion
+msgid "Add New Category"
+msgstr ""
+
+#: functions.php:647
+#@ oblivion
+msgid "New Category Name"
+msgstr ""
+
+#: functions.php:648
+#@ oblivion
+msgid "Categories"
+msgstr ""
+
+#: functions.php:698
+#@ oblivion
+msgid "Category ID"
+msgstr ""
+
+#: functions.php:726
+#@ oblivion
+msgid "Project link"
+msgstr ""
+
+#: functions.php:732
+#@ oblivion
+msgid "Enable project link"
+msgstr ""
+
+#: functions.php:736
+#@ oblivion
+msgid "Put the project link in here"
+msgstr ""
+
+#: functions.php:740
+#@ oblivion
+msgid "Put the project button name in here"
+msgstr ""
+
+#: functions.php:745
+#@ oblivion
+msgid "Video link"
+msgstr ""
+
+#: functions.php:751
+#@ oblivion
+msgid "Put your portfolio embed video here"
+msgstr ""
+
+#: functions.php:756
+#@ oblivion
+msgid "Client"
+msgstr ""
+
+#: functions.php:762
+#@ oblivion
+msgid "Put client name here"
+msgstr ""
+
+#: functions.php:1116
+#@ oblivion
+msgid "Video url"
+msgstr ""
+
+#: functions.php:1122
+#@ oblivion
+msgid "Put your embed video URL here"
+msgstr ""
+
+#: header.php:1
+#, php-format
+#@ oblivion
+msgid "Page %s"
+msgstr ""
+
+#: header.php:1
+#@ default
+msgid "was successfully added to your cart."
+msgstr ""
+
+#: header.php:1
+#@ oblivion
+msgid "Edit your profile"
+msgstr ""
+
+#: header.php:1
+#@ oblivion
+msgid "Log Out"
+msgstr ""
+
+#: header.php:1
+#@ oblivion
+msgid "Remember Me"
+msgstr ""
+
+#: header.php:1
+#@ oblivion
+msgid "Password Lost and Found"
+msgstr ""
+
+#: header.php:1
+#@ oblivion
+msgid "Lost your password?"
+msgstr ""
+
+#: header.php:1
+#@ oblivion
+msgid "Log In"
+msgstr ""
+
+#: header.php:1
+#@ oblivion
+msgid "Forgotten Password"
+msgstr ""
+
+#: header.php:1
+#@ oblivion
+msgid "Enter username or email"
+msgstr ""
+
+#: header.php:1
+#@ oblivion
+msgid "Get New Password"
+msgstr ""
+
+#: header.php:1
+#: pagebuilder/classes/class-page-builder.php:1
+#@ oblivion
+msgid "Cancel"
+msgstr ""
+
+#: header.php:1
+#@ oblivion
+msgid "Archive: "
+msgstr ""
+
+#: heart/love/heart-love.php:1
+#@ oblivion
+msgid "Love this"
+msgstr ""
+
+#: heart/love/heart-love.php:1
+#@ oblivion
+msgid "You already love this!"
+msgstr ""
+
+#: index.php:1
+#: pagebuilder/blocks/news-blog-block.php:1
+#: tag.php:1
+#@ oblivion
+msgid "View all posts by "
+msgstr ""
+
+#: pagebuilder/blocks/alert-block.php:1
+#@ oblivion
+msgid "Alerts"
+msgstr ""
+
+#: pagebuilder/blocks/alert-block.php:1
+#@ oblivion
+msgid "Standard"
+msgstr ""
+
+#: pagebuilder/blocks/alert-block.php:1
+#@ oblivion
+msgid "Info"
+msgstr ""
+
+#: pagebuilder/blocks/alert-block.php:1
+#@ oblivion
+msgid "Notification"
+msgstr ""
+
+#: pagebuilder/blocks/alert-block.php:1
+#@ oblivion
+msgid "Warning"
+msgstr ""
+
+#: pagebuilder/blocks/alert-block.php:1
+#@ oblivion
+msgid "Tips"
+msgstr ""
+
+#: pagebuilder/blocks/alert-block.php:1
+#: pagebuilder/blocks/animated-block.php:34
+#: pagebuilder/blocks/carousel-block.php:34
+#: pagebuilder/blocks/contactform-block.php:25
+#: pagebuilder/blocks/news-block.php:47
+#: pagebuilder/blocks/news-blog-block.php:1
+#: pagebuilder/blocks/newsh-block.php:1
+#: pagebuilder/blocks/newst-block.php:1
+#: pagebuilder/blocks/portfolio-block.php:1
+#: pagebuilder/blocks/shortcode-block.php:22
+#: pagebuilder/blocks/skills-block.php:1
+#: pagebuilder/blocks/social-block.php:24
+#: pagebuilder/blocks/tabs-block.php:1
+#: pagebuilder/blocks/textcolumn-block.php:1
+#: pagebuilder/blocks/widgets-block.php:1
+#: pagebuilder/functions/pb_blocks.php:1
+#@ oblivion
+#@ addict
+#@ atticus
+msgid "Title (optional)"
+msgstr ""
+
+#: pagebuilder/blocks/alert-block.php:1
+#@ oblivion
+msgid "Alert Text (required)"
+msgstr ""
+
+#: pagebuilder/blocks/alert-block.php:1
+#@ oblivion
+msgid "Alert Type"
+msgstr ""
+
+#: pagebuilder/blocks/alert-block.php:1
+#@ oblivion
+msgid "Additional inline css styling (optional)"
+msgstr ""
+
+#: pagebuilder/blocks/animated-block.php:7
+#@ oblivion
+msgid "Animated block"
+msgstr ""
+
+#: pagebuilder/blocks/animated-block.php:23
+#@ oblivion
+msgid "Fade in from left"
+msgstr ""
+
+#: pagebuilder/blocks/animated-block.php:24
+#@ oblivion
+msgid "Fade in from right"
+msgstr ""
+
+#: pagebuilder/blocks/animated-block.php:25
+#@ oblivion
+msgid "Fade in from bottom"
+msgstr ""
+
+#: pagebuilder/blocks/animated-block.php:26
+#@ oblivion
+msgid "Fade in"
+msgstr ""
+
+#: pagebuilder/blocks/animated-block.php:27
+#@ oblivion
+msgid "Grow in"
+msgstr ""
+
+#: pagebuilder/blocks/animated-block.php:40
+#@ oblivion
+msgid "Upload image"
+msgstr ""
+
+#: pagebuilder/blocks/animated-block.php:46
+#@ oblivion
+msgid "Data delay: (1-1000)"
+msgstr ""
+
+#: pagebuilder/blocks/animated-block.php:52
+#@ oblivion
+msgid "Animation type"
+msgstr ""
+
+#: pagebuilder/blocks/animated-block.php:58
+#: pagebuilder/blocks/contactform-block.php:37
+#: pagebuilder/blocks/highlight-block.php:1
+#: pagebuilder/blocks/social-block.php:36
+#: pagebuilder/blocks/textcolumn-block.php:1
+#@ oblivion
+#@ addict
+msgid "Remove bottom spacing &nbsp;&nbsp;"
+msgstr ""
+
+#: pagebuilder/blocks/carousel-block.php:6
+#@ oblivion
+msgid "Carousel"
+msgstr ""
+
+#: pagebuilder/blocks/carousel-block.php:19
+#@ oblivion
+msgid "New carousel item"
+msgstr ""
+
+#: pagebuilder/blocks/carousel-block.php:49
+#: pagebuilder/blocks/skills-block.php:1
+#: pagebuilder/blocks/tabs-block.php:1
+#: pagebuilder/blocks/ticker-block.php:43
+#: pricetable/pricetable.php:1
+#@ oblivion
+#@ atticus
+msgid "Add New"
+msgstr ""
+
+#: pagebuilder/blocks/carousel-block.php:62
+#: pagebuilder/blocks/skills-block.php:1
+#: pagebuilder/blocks/tabs-block.php:1
+#: pagebuilder/blocks/ticker-block.php:56
+#@ oblivion
+#@ atticus
+msgid "Open / Close"
+msgstr ""
+
+#: pagebuilder/blocks/carousel-block.php:68
+#@ oblivion
+msgid "Item"
+msgstr ""
+
+#: pagebuilder/blocks/carousel-block.php:74
+#: pagebuilder/blocks/carousel-block.php:80
+#@ oblivion
+msgid "Item image link"
+msgstr ""
+
+#: pagebuilder/blocks/carousel-block.php:87
+#@ oblivion
+msgid "Item external link"
+msgstr ""
+
+#: pagebuilder/blocks/carousel-block.php:91
+#: pagebuilder/blocks/skills-block.php:1
+#: pagebuilder/blocks/tabs-block.php:1
+#: pagebuilder/blocks/ticker-block.php:65
+#@ oblivion
+#@ atticus
+msgid "Delete"
+msgstr ""
+
+#: pagebuilder/blocks/carousel-block.php:125
+#@ oblivion
+msgid "New Item"
+msgstr ""
+
+#: pagebuilder/blocks/clear-block.php:1
+#@ oblivion
+msgid "Clear"
+msgstr ""
+
+#: pagebuilder/blocks/clear-block.php:1
+#@ oblivion
+msgid "span12"
+msgstr ""
+
+#: pagebuilder/blocks/clear-block.php:1
+#@ oblivion
+msgid "None"
+msgstr ""
+
+#: pagebuilder/blocks/clear-block.php:1
+#@ oblivion
+msgid "Single"
+msgstr ""
+
+#: pagebuilder/blocks/clear-block.php:1
+#@ oblivion
+msgid "Double"
+msgstr ""
+
+#: pagebuilder/blocks/clear-block.php:1
+#@ oblivion
+msgid "Use this block to clear the floats between two or more separate blocks vertically."
+msgstr ""
+
+#: pagebuilder/blocks/clear-block.php:1
+#@ oblivion
+msgid "Pick a horizontal line"
+msgstr ""
+
+#: pagebuilder/blocks/clear-block.php:1
+#@ oblivion
+msgid "Height (optional)"
+msgstr ""
+
+#: pagebuilder/blocks/clear-block.php:1
+#@ oblivion
+msgid "Pick a line color"
+msgstr ""
+
+#: pagebuilder/blocks/clear-block.php:1
+#@ oblivion
+msgid "Add bottom spacing &nbsp;&nbsp;"
+msgstr ""
+
+#: pagebuilder/blocks/column-block.php:1
+#@ oblivion
+msgid "Column"
+msgstr ""
+
+#: pagebuilder/blocks/column-block.php:1
+#@ oblivion
+msgid "span3"
+msgstr ""
+
+#: pagebuilder/blocks/column-block.php:1
+#@ oblivion
+msgid "Drag block items into this column box"
+msgstr ""
+
+#: pagebuilder/blocks/contactform-block.php:7
+#@ addict
+msgid "Contact form"
+msgstr ""
+
+#: pagebuilder/blocks/contactform-block.php:31
+#: pagebuilder/blocks/shortcode-block.php:34
+#: pagebuilder/blocks/social-block.php:30
+#: pagebuilder/blocks/textcolumn-block.php:1
+#@ addict
+#@ oblivion
+msgid "Boxed &nbsp;&nbsp;"
+msgstr ""
+
+#: pagebuilder/blocks/contactform-block.php:48
+#: tmp-contact.php:20
+#@ addict
+#@ oblivion
+msgid "Please enter your name."
+msgstr ""
+
+#: pagebuilder/blocks/contactform-block.php:54
+#: tmp-contact.php:26
+#@ addict
+#@ oblivion
+msgid "Please enter your email address."
+msgstr ""
+
+#: pagebuilder/blocks/contactform-block.php:57
+#: tmp-contact.php:29
+#@ addict
+#@ oblivion
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: pagebuilder/blocks/contactform-block.php:63
+#: tmp-contact.php:35
+#@ addict
+#@ oblivion
+msgid "Please enter a message."
+msgstr ""
+
+#: pagebuilder/blocks/contactform-block.php:95
+#: pagebuilder/blocks/contactform-block.php:142
+#: pagebuilder/blocks/contactform-block.php:189
+#: pagebuilder/blocks/contactform-block.php:236
+#@ addict
+msgid "Thanks, your email was sent successfully."
+msgstr ""
+
+#: pagebuilder/blocks/contactform-block.php:100
+#: pagebuilder/blocks/contactform-block.php:147
+#: pagebuilder/blocks/contactform-block.php:194
+#: pagebuilder/blocks/contactform-block.php:241
+#@ addict
+msgid "Sorry, an error occured."
+msgstr ""
+
+#: pagebuilder/blocks/contactform-block.php:130
+#: pagebuilder/blocks/contactform-block.php:177
+#: pagebuilder/blocks/contactform-block.php:224
+#: pagebuilder/blocks/contactform-block.php:271
+#@ addict
+msgid "Send email"
+msgstr ""
+
+#: pagebuilder/blocks/four-blocks.php:1
+#@ atticus
+msgid "Hover block"
+msgstr ""
+
+#: pagebuilder/blocks/four-blocks.php:1
+#: pagebuilder/blocks/page-header-block.php:1
+#: pricetable/pricetable.php:1
+#: pricetable/tpl/pricetable.build.phtml:12
+#: pricetable/tpl/pricetable.build.phtml:24
+#: pricetable/tpl/pricetable.build.phtml:42
+#: pricetable/tpl/pricetable.build.phtml:55
+#@ atticus
+#@ oblivion
+msgid "Title"
+msgstr ""
+
+#: pagebuilder/blocks/four-blocks.php:1
+#@ atticus
+msgid "Icon"
+msgstr ""
+
+#: pagebuilder/blocks/four-blocks.php:1
+#: pagebuilder/blocks/shortcode-block.php:28
+#: pagebuilder/blocks/skills-block.php:1
+#: pagebuilder/blocks/textcolumn-block.php:1
+#: pagebuilder/functions/pb_blocks.php:1
+#@ atticus
+#@ oblivion
+msgid "Content"
+msgstr ""
+
+#: pagebuilder/blocks/highlight-block.php:1
+#@ oblivion
+msgid "Highlight"
+msgstr ""
+
+#: pagebuilder/blocks/highlight-block.php:1
+#@ oblivion
+msgid "Highlight text"
+msgstr ""
+
+#: pagebuilder/blocks/highlight-block.php:1
+#@ oblivion
+msgid "Highlight button text"
+msgstr ""
+
+#: pagebuilder/blocks/highlight-block.php:1
+#@ oblivion
+msgid "Highlight button link"
+msgstr ""
+
+#: pagebuilder/blocks/news-block.php:7
+#@ oblivion
+msgid "News block"
+msgstr ""
+
+#: pagebuilder/blocks/news-block.php:53
+#: pagebuilder/blocks/news-blog-block.php:1
+#: pagebuilder/blocks/newsh-block.php:1
+#: pagebuilder/blocks/newst-block.php:1
+#@ oblivion
+msgid "Enter posts categories you want to exclude(comma separated) - Leave blank to show all. Ex: 47,32"
+msgstr ""
+
+#: pagebuilder/blocks/news-block.php:59
+#: pagebuilder/blocks/news-blog-block.php:1
+#: pagebuilder/blocks/newsh-block.php:1
+#: pagebuilder/blocks/newst-block.php:1
+#@ oblivion
+msgid "Number of posts to show"
+msgstr ""
+
+#: pagebuilder/blocks/news-blog-block.php:1
+#@ oblivion
+msgid "News Block - Blog Style"
+msgstr ""
+
+#: pagebuilder/blocks/newsh-block.php:1
+#@ oblivion
+msgid "News block - Horizontal"
+msgstr ""
+
+#: pagebuilder/blocks/newst-block.php:1
+#@ oblivion
+msgid "News block - Tabbed"
+msgstr ""
+
+#: pagebuilder/blocks/page-header-block.php:1
+#@ oblivion
+msgid "Page Header"
+msgstr ""
+
+#: pagebuilder/blocks/page-header-block.php:1
+#@ oblivion
+msgid "Subtitle"
+msgstr ""
+
+#: pagebuilder/blocks/parallax-block.php:13
+#@ oblivion
+msgid "Parallax block"
+msgstr ""
+
+#: pagebuilder/blocks/parallax-block.php:15
+#@ oblivion
+msgid "span6"
+msgstr ""
+
+#: pagebuilder/blocks/parallax-block.php:29
+#: pagebuilder/blocks/parallax-block.php:65
+#@ oblivion
+msgid "Drag block items into this parallax box"
+msgstr ""
+
+#: pagebuilder/blocks/parallax-block.php:163
+#@ oblivion
+msgid "Light"
+msgstr ""
+
+#: pagebuilder/blocks/parallax-block.php:164
+#@ oblivion
+msgid "Dark"
+msgstr ""
+
+#: pagebuilder/blocks/parallax-block.php:170
+#@ oblivion
+msgid "Choose between light and dark version"
+msgstr ""
+
+#: pagebuilder/blocks/parallax-block.php:174
+#@ oblivion
+msgid "Choose background color"
+msgstr ""
+
+#: pagebuilder/blocks/parallax-block.php:178
+#@ oblivion
+msgid "Please upload image for parallax background. (Note: Video has priority over image!)"
+msgstr ""
+
+#: pagebuilder/blocks/parallax-block.php:182
+#@ oblivion
+msgid "Video WebM Upload"
+msgstr ""
+
+#: pagebuilder/blocks/parallax-block.php:184
+#@ oblivion
+msgid "Please upload webm video format. Video will be automatically played on page load."
+msgstr ""
+
+#: pagebuilder/blocks/parallax-block.php:188
+#@ oblivion
+msgid "Video MP4 Upload"
+msgstr ""
+
+#: pagebuilder/blocks/parallax-block.php:190
+#@ oblivion
+msgid "Please upload mp4 video format because of cross browser compatibility."
+msgstr ""
+
+#: pagebuilder/blocks/parallax-block.php:194
+#@ oblivion
+msgid "Preview image"
+msgstr ""
+
+#: pagebuilder/blocks/parallax-block.php:196
+#@ oblivion
+msgid "Please upload preview image for video. Image will be displayed while video is loading."
+msgstr ""
+
+#: pagebuilder/blocks/parallax-block.php:201
+#@ oblivion
+msgid "Remove inner bottom spacing"
+msgstr ""
+
+#: pagebuilder/blocks/parallax-block.php:203
+#@ oblivion
+msgid "Remove inner top spacing"
+msgstr ""
+
+#: pagebuilder/blocks/portfolio-block.php:1
+#@ oblivion
+msgid "Portfolio"
+msgstr ""
+
+#: pagebuilder/blocks/portfolio-block.php:1
+#@ oblivion
+msgid "Enter portfolio categories you want to exclude(comma separated) - Leave blank to show all. Ex: 47,32"
+msgstr ""
+
+#: pagebuilder/blocks/portfolio-block.php:1
+#@ oblivion
+msgid "Number of projects to show"
+msgstr ""
+
+#: pagebuilder/blocks/portfolio-block.php:1
+#@ oblivion
+msgid "Name of first tab (optional and for tabbed display only)"
+msgstr ""
+
+#: pagebuilder/blocks/portfolio-block.php:1
+#@ oblivion
+msgid "Display without tabs &nbsp;&nbsp;"
+msgstr ""
+
+#: pagebuilder/blocks/portfolio-block.php:1
+#@ oblivion
+msgid "View image"
+msgstr ""
+
+#: pagebuilder/blocks/portfolio-block.php:1
+#@ oblivion
+msgid "More info"
+msgstr ""
+
+#: pagebuilder/blocks/portfolio-block.php:1
+#@ oblivion
+msgid "Everything"
+msgstr ""
+
+#: pagebuilder/blocks/shortcode-block.php:7
+#@ oblivion
+msgid "Shortcode block"
+msgstr ""
+
+#: pagebuilder/blocks/skills-block.php:1
+#@ atticus
+msgid "Skills"
+msgstr ""
+
+#: pagebuilder/blocks/skills-block.php:1
+#@ atticus
+msgid "My New Skill"
+msgstr ""
+
+#: pagebuilder/blocks/skills-block.php:1
+#@ atticus
+msgid "Skill"
+msgstr ""
+
+#: pagebuilder/blocks/skills-block.php:1
+#@ atticus
+msgid "Skill percentage (0-100)"
+msgstr ""
+
+#: pagebuilder/blocks/skills-block.php:1
+#@ atticus
+msgid "New Skill"
+msgstr ""
+
+#: pagebuilder/blocks/social-block.php:7
+#@ addict
+msgid "Social"
+msgstr ""
+
+#: pagebuilder/blocks/tabs-block.php:1
+#@ oblivion
+msgid "Tabs &amp; Toggles"
+msgstr ""
+
+#: pagebuilder/blocks/tabs-block.php:1
+#@ oblivion
+msgid "My New Tab"
+msgstr ""
+
+#: pagebuilder/blocks/tabs-block.php:1
+#@ oblivion
+msgid "My tab contents"
+msgstr ""
+
+#: pagebuilder/blocks/tabs-block.php:1
+#@ oblivion
+msgid "Tabs"
+msgstr ""
+
+#: pagebuilder/blocks/tabs-block.php:1
+#@ oblivion
+msgid "Toggles"
+msgstr ""
+
+#: pagebuilder/blocks/tabs-block.php:1
+#@ oblivion
+msgid "Accordion"
+msgstr ""
+
+#: pagebuilder/blocks/tabs-block.php:1
+#@ oblivion
+msgid "Top"
+msgstr ""
+
+#: pagebuilder/blocks/tabs-block.php:1
+#@ oblivion
+msgid "Bottom"
+msgstr ""
+
+#: pagebuilder/blocks/tabs-block.php:1
+#@ oblivion
+msgid "Left"
+msgstr ""
+
+#: pagebuilder/blocks/tabs-block.php:1
+#@ oblivion
+msgid "Right"
+msgstr ""
+
+#: pagebuilder/blocks/tabs-block.php:1
+#@ oblivion
+msgid "Tabs style"
+msgstr ""
+
+#: pagebuilder/blocks/tabs-block.php:1
+#@ oblivion
+msgid "Tabs position"
+msgstr ""
+
+#: pagebuilder/blocks/tabs-block.php:1
+#@ oblivion
+msgid "Tab Title"
+msgstr ""
+
+#: pagebuilder/blocks/tabs-block.php:1
+#@ oblivion
+msgid "Tab Content"
+msgstr ""
+
+#: pagebuilder/blocks/tabs-block.php:1
+#@ oblivion
+msgid "New Tab"
+msgstr ""
+
+#: pagebuilder/blocks/team-member-block.php:7
+#@ oblivion
+msgid "Team member"
+msgstr ""
+
+#: pagebuilder/blocks/team-member-block.php:28
+#@ oblivion
+msgid "Member name"
+msgstr ""
+
+#: pagebuilder/blocks/team-member-block.php:34
+#@ oblivion
+msgid "Member position"
+msgstr ""
+
+#: pagebuilder/blocks/team-member-block.php:40
+#: pagebuilder/blocks/team-member-block.php:46
+#@ oblivion
+#@ hikari
+msgid "About member"
+msgstr ""
+
+#: pagebuilder/blocks/team-member-block.php:52
+#@ oblivion
+msgid "Enter link to memeber picture"
+msgstr ""
+
+#: pagebuilder/blocks/textcolumn-block.php:1
+#@ oblivion
+msgid "Text"
+msgstr ""
+
+#: pagebuilder/blocks/ticker-block.php:6
+#@ oblivion
+msgid "Ticker"
+msgstr ""
+
+#: pagebuilder/blocks/ticker-block.php:19
+#@ oblivion
+msgid "My New Ticker Item"
+msgstr ""
+
+#: pagebuilder/blocks/ticker-block.php:28
+#@ oblivion
+msgid "tickers"
+msgstr ""
+
+#: pagebuilder/blocks/ticker-block.php:93
+#@ oblivion
+msgid "New ticker item"
+msgstr ""
+
+#: pagebuilder/blocks/upload-block.php:1
+#@ oblivion
+msgid "Media"
+msgstr ""
+
+#: pagebuilder/blocks/widgets-block.php:1
+#@ oblivion
+msgid "Widgets"
+msgstr ""
+
+#: pagebuilder/blocks/widgets-block.php:1
+#@ oblivion
+msgid "Choose widget area"
+msgstr ""
+
+#: pagebuilder/classes/class-block.php:33
+#@ oblivion
+msgid "function Block::block should not be accessed directly. Output generated by the "
+msgstr ""
+
+#: pagebuilder/classes/class-block.php:77
+#@ oblivion
+msgid "There are no options for this block."
+msgstr ""
+
+#: pagebuilder/classes/class-page-builder.php:1
+#: pagebuilder/functions/pb_config.php:1
+#@ oblivion
+msgid "Page Builder"
+msgstr ""
+
+#: pagebuilder/classes/class-page-builder.php:1
+#: pagebuilder/functions/pb_config.php:1
+#@ oblivion
+msgid "page_builder"
+msgstr ""
+
+#: pagebuilder/classes/class-page-builder.php:1
+#@ oblivion
+msgid "Drag block items from the left into this area to begin building your template."
+msgstr ""
+
+#: pagebuilder/classes/class-page-builder.php:1
+#@ oblivion
+msgid "This template is empty"
+msgstr ""
+
+#: pagebuilder/classes/class-page-builder.php:1
+#@ oblivion
+msgid "Add Page Template"
+msgstr ""
+
+#: pagebuilder/classes/class-page-builder.php:1
+#@ oblivion
+msgid "Add Template"
+msgstr ""
+
+#: pagebuilder/classes/class-page-builder.php:1
+#@ oblivion
+msgid "Please select your template first!"
+msgstr ""
+
+#: pagebuilder/classes/class-page-builder.php:1
+#, php-format
+#@ oblivion
+msgid "You don't have any template yet. Let's %s create %s one!"
+msgstr ""
+
+#: pagebuilder/classes/class-page-builder.php:1
+#@ oblivion
+msgid "Choose Your Page Template"
+msgstr ""
+
+#: pagebuilder/classes/class-page-builder.php:1
+#@ oblivion
+msgid "Insert Template"
+msgstr ""
+
+#: pagebuilder/classes/class-page-builder.php:1
+#@ oblivion
+msgid "For more information:"
+msgstr ""
+
+#: pagebuilder/classes/class-page-builder.php:1
+#@ oblivion
+msgid "Overview"
+msgstr ""
+
+#: pagebuilder/classes/class-plugin-updater.php:1
+#@ oblivion
+msgid "An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: pagebuilder/classes/class-plugin-updater.php:1
+#@ oblivion
+msgid "An unknown error occurred"
+msgstr ""
+
+#: pagebuilder/classes/class-plugin-updater.php:1
+#@ oblivion
+msgid "Correcting plugin folder name & activating plugin..."
+msgstr ""
+
+#: pagebuilder/classes/class-plugin-updater.php:1
+#@ oblivion
+msgid "The plugin has been updated, but could not be reactivated. Please reactivate it manually."
+msgstr ""
+
+#: pagebuilder/classes/class-plugin-updater.php:1
+#@ oblivion
+msgid "Plugin reactivated successfully."
+msgstr ""
+
+#: pagebuilder/functions/pb_blocks.php:1
+#@ oblivion
+msgid "Enter your text slogan below"
+msgstr ""
+
+#: pagebuilder/functions/pb_blocks.php:1
+#@ oblivion
+msgid "Slider Speed"
+msgstr ""
+
+#: pagebuilder/functions/pb_blocks.php:1
+#@ oblivion
+msgid "Address"
+msgstr ""
+
+#: pagebuilder/functions/pb_blocks.php:1
+#@ oblivion
+msgid "Coordinates (optional) e.g. '3.82497,103.32390'"
+msgstr ""
+
+#: pagebuilder/functions/pb_blocks.php:1
+#@ oblivion
+msgid "Map height, in pixels."
+msgstr ""
+
+#: pagebuilder/functions/pb_blocks.php:1
+#@ oblivion
+msgid "Number of Columns"
+msgstr ""
+
+#: pagebuilder/functions/pb_blocks.php:1
+#@ oblivion
+msgid "Maximum number of items"
+msgstr ""
+
+#: pagebuilder/functions/pb_blocks.php:1
+#@ oblivion
+msgid "Choose sidebar/widget area"
+msgstr ""
+
+#: pagebuilder/functions/pb_blocks.php:1
+#@ oblivion
+msgid "Drag block items into this box"
+msgstr ""
+
+#: pagebuilder/functions/pb_blocks.php:1
+#@ oblivion
+msgid "This block has no editable attributes. You can use it to clear the floats between two or more separate blocks vertically."
+msgstr ""
+
+#: pagebuilder/functions/pb_config.php:1
+#@ oblivion
+msgid "The page builder allows you to create custom page templates which you can later use for your pages."
+msgstr ""
+
+#: pagebuilder/functions/pb_config.php:1
+#@ oblivion
+msgid "To use the page builder, start by adding a new template. You can drag and drop the blocks on the left into the building area on the right of the screen. Each block has its own unique configuration which you can manually configure to suit your needs"
+msgstr ""
+
+#: pagebuilder/functions/pb_config.php:1
+#@ oblivion
+msgid "Please refer to the"
+msgstr ""
+
+#: pagebuilder/functions/pb_config.php:1
+#@ oblivion
+msgid " documentation page "
+msgstr ""
+
+#: pagebuilder/functions/pb_config.php:1
+#@ oblivion
+msgid "for more information on how to use this feature."
+msgstr ""
+
+#: pagebuilder/view/view-settings-page.php:17
+#@ oblivion
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: pagebuilder/view/view-settings-page.php:50
+#: pagebuilder/view/view-settings-page.php:66
+#@ oblivion
+msgid "The "
+msgstr ""
+
+#: pagebuilder/view/view-settings-page.php:50
+#@ oblivion
+msgid " page template has been successfully created"
+msgstr ""
+
+#: pagebuilder/view/view-settings-page.php:57
+#@ oblivion
+msgid "Sorry, the operation was unsuccessful for the following reason(s): "
+msgstr ""
+
+#: pagebuilder/view/view-settings-page.php:66
+#@ oblivion
+msgid " page template has been updated"
+msgstr ""
+
+#: pagebuilder/view/view-settings-page.php:74
+#@ oblivion
+msgid "The template has been successfully deleted"
+msgstr ""
+
+#: pagebuilder/view/view-settings-page.php:90
+#@ oblivion
+msgid "Available Blocks"
+msgstr ""
+
+#: pagebuilder/view/view-settings-page.php:90
+#@ oblivion
+msgid "Deleting"
+msgstr ""
+
+#: pagebuilder/view/view-settings-page.php:151
+#@ oblivion
+msgid "Template Name"
+msgstr ""
+
+#: pagebuilder/view/view-settings-page.php:158
+#@ oblivion
+msgid "Create Template"
+msgstr ""
+
+#: pagebuilder/view/view-settings-page.php:158
+#: pagebuilder/view/view-settings-page.php:209
+#@ oblivion
+msgid "Save Template"
+msgstr ""
+
+#: pagebuilder/view/view-settings-page.php:171
+#@ oblivion
+msgid "Delete Template"
+msgstr ""
+
+#: pagebuilder/view/view-settings-page.php:193
+#@ oblivion
+msgid ""
+"To create a custom page template, give it a name above and click Create Template. Then choose blocks like text, widgets or tabs &amp; toggles from the left column to add to this template.\n"
+"\t\t\t\t\t\t\t\t\t<br/><br/>\n"
+"\t\t\t\t\t\t\t\t\tYou can drag and drop the blocks to put them in the order you want. Click on the small arrow at the corner of each block to reveal additional configuration options. You can also resize each block by clicking on either side of the block (Note that some blocks are not resizable)\n"
+"\t\t\t\t\t\t\t\t\t<br/><br/>\n"
+"\t\t\t\t\t\t\t\t\tWhen you have finished building your custom page template, make sure you click the Save Template button."
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Something went wrong."
+msgstr ""
+
+#: pluginactivation.php:1
+#, php-format
+#@ oblivion
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Not set"
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: pluginactivation.php:1
+#, php-format
+#@ oblivion
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Dismiss this notice"
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "External Link"
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Private Repository"
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Pre-Packaged"
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "WordPress Repository"
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Required"
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Recommended"
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Not Installed"
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: pluginactivation.php:1
+#, php-format
+#@ oblivion
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Plugin"
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Source"
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Type"
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Status"
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Install"
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Activate"
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Install package not available."
+msgstr ""
+
+#: pluginactivation.php:1
+#, php-format
+#@ oblivion
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Plugin install failed."
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Plugin activation failed."
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: pluginactivation.php:1
+#, php-format
+#@ oblivion
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Show Details"
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "Hide Details"
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: pluginactivation.php:1
+#, php-format
+#@ oblivion
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: pluginactivation.php:1
+#, php-format
+#@ oblivion
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: pluginactivation.php:1
+#, php-format
+#@ oblivion
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: pluginactivation.php:1
+#, php-format
+#@ oblivion
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: pluginactivation.php:1
+#@ oblivion
+msgid "All installations have been completed."
+msgstr ""
+
+#: pluginactivation.php:1
+#, php-format
+#@ oblivion
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: post_templates.php:1
+#@ oblivion
+msgid "Sidebar position"
+msgstr ""
+
+#: post_templates.php:1
+#@ oblivion
+msgid "Post Template"
+msgstr ""
+
+#: pricetable/pricetable.php:1
+#@ oblivion
+msgid "Price Tables"
+msgstr ""
+
+#: pricetable/pricetable.php:1
+#@ oblivion
+msgid "Price Table"
+msgstr ""
+
+#: pricetable/pricetable.php:1
+#@ oblivion
+msgid "Add New Price Table"
+msgstr ""
+
+#: pricetable/pricetable.php:1
+#@ oblivion
+msgid "Edit Price Table"
+msgstr ""
+
+#: pricetable/pricetable.php:1
+#@ oblivion
+msgid "New Price Table"
+msgstr ""
+
+#: pricetable/pricetable.php:1
+#@ oblivion
+msgid "All Price Tables"
+msgstr ""
+
+#: pricetable/pricetable.php:1
+#@ oblivion
+msgid "View Price Table"
+msgstr ""
+
+#: pricetable/pricetable.php:1
+#@ oblivion
+msgid "Search Price Tables"
+msgstr ""
+
+#: pricetable/pricetable.php:1
+#@ oblivion
+msgid "No Price Tables found"
+msgstr ""
+
+#: pricetable/pricetable.php:1
+#@ oblivion
+msgid "Options"
+msgstr ""
+
+#: pricetable/pricetable.php:1
+#: pricetable/tpl/pricetable.build.phtml:18
+#: pricetable/tpl/pricetable.build.phtml:48
+#@ oblivion
+msgid "Features"
+msgstr ""
+
+#: pricetable/pricetable.php:1
+#@ oblivion
+msgid "Featured Option"
+msgstr ""
+
+#: pricetable/pricetable.php:1
+#@ oblivion
+msgid "Date"
+msgstr ""
+
+#: pricetable/pricetable.php:1
+#@ oblivion
+msgid "Are you sure you want to delete this column?"
+msgstr ""
+
+#: pricetable/pricetable.php:1
+#@ oblivion
+msgid "Are you sure you want to delete this feature?"
+msgstr ""
+
+#: pricetable/pricetable.php:1
+#@ oblivion
+msgid "Shortcode"
+msgstr ""
+
+#: pricetable/pricetable.php:1
+#@ oblivion
+msgid "Displays price table on another page."
+msgstr ""
+
+#: pricetable/tpl/pricetable.build.phtml:9
+#: pricetable/tpl/pricetable.build.phtml:39
+#@ oblivion
+msgid "Recommend"
+msgstr ""
+
+#: pricetable/tpl/pricetable.build.phtml:13
+#: pricetable/tpl/pricetable.build.phtml:43
+#@ oblivion
+msgid "Price"
+msgstr ""
+
+#: pricetable/tpl/pricetable.build.phtml:14
+#: pricetable/tpl/pricetable.build.phtml:44
+#@ oblivion
+msgid "Detail"
+msgstr ""
+
+#: pricetable/tpl/pricetable.build.phtml:15
+#: pricetable/tpl/pricetable.build.phtml:45
+#@ oblivion
+msgid "Button URL"
+msgstr ""
+
+#: pricetable/tpl/pricetable.build.phtml:16
+#: pricetable/tpl/pricetable.build.phtml:46
+#@ oblivion
+msgid "Button Text"
+msgstr ""
+
+#: pricetable/tpl/pricetable.build.phtml:18
+#: pricetable/tpl/pricetable.build.phtml:48
+#@ oblivion
+msgid "Add"
+msgstr ""
+
+#: pricetable/tpl/pricetable.build.phtml:25
+#: pricetable/tpl/pricetable.build.phtml:56
+#@ oblivion
+msgid "Sub title"
+msgstr ""
+
+#: pricetable/tpl/pricetable.build.phtml:26
+#: pricetable/tpl/pricetable.build.phtml:57
+#@ oblivion
+msgid "Yes/No"
+msgstr ""
+
+#: pricetable/tpl/pricetable.build.phtml:42
+#: pricetable/tpl/pricetable.build.phtml:55
+#@ default
+msgid "title"
+msgstr ""
+
+#: pricetable/tpl/pricetable.build.phtml:43
+#@ default
+msgid "price"
+msgstr ""
+
+#: pricetable/tpl/pricetable.build.phtml:44
+#@ default
+msgid "detail"
+msgstr ""
+
+#: pricetable/tpl/pricetable.build.phtml:45
+#@ default
+msgid "url"
+msgstr ""
+
+#: pricetable/tpl/pricetable.build.phtml:46
+#@ default
+msgid "button"
+msgstr ""
+
+#: pricetable/tpl/pricetable.build.phtml:56
+#@ default
+msgid "sub"
+msgstr ""
+
+#: pricetable/tpl/pricetable.build.phtml:57
+#@ default
+msgid "icon"
+msgstr ""
+
+#: pricetable/tpl/pricetable.build.phtml:64
+#@ oblivion
+msgid "Add Column"
+msgstr ""
+
+#: pricetable/tpl/pricetable.phtml:50
+#: pricetable/tpl/pricetable.phtml:54
+#@ oblivion
+msgid "Select"
+msgstr ""
+
+#: search-portfolio.php:1
+#: search-post.php:1
+#@ oblivion
+msgid "Nothing Found"
+msgstr ""
+
+#: search-portfolio.php:1
+#: search-post.php:1
+#@ oblivion
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: short-comments-blog.php:1
+#: short-comments.php:1
+#@ oblivion
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: short-comments-blog.php:1
+#: short-comments.php:1
+#@ oblivion
+msgid "Leave a comment"
+msgstr ""
+
+#: short-comments-blog.php:1
+#: short-comments.php:1
+#, php-format
+#@ oblivion
+msgid "Post a Reply to %s"
+msgstr ""
+
+#: short-comments-blog.php:1
+#: short-comments.php:1
+#, php-format
+#@ oblivion
+msgid "You must be <a href=\"%s\" title=\"Log in\">logged in</a> to post a comment."
+msgstr ""
+
+#: short-comments-blog.php:1
+#@ oblivion
+msgid "Submit comment"
+msgstr ""
+
+#: short-comments.php:1
+#, php-format
+#@ oblivion
+msgid "<span>%d</span> Comments"
+msgstr ""
+
+#: short-comments.php:1
+#@ oblivion
+msgid "<span>One</span> Comment"
+msgstr ""
+
+#: short-comments.php:1
+#, php-format
+#@ oblivion
+msgid "<span>%d</span> Trackbacks"
+msgstr ""
+
+#: short-comments.php:1
+#@ oblivion
+msgid "<span>One</span> Trackback"
+msgstr ""
+
+#: short-comments.php:1
+#@ oblivion
+msgid "Your email is <em>never</em> published nor shared."
+msgstr ""
+
+#: short-comments.php:1
+#@ oblivion
+msgid "Required fields are marked <span class=\"required\">*</span>"
+msgstr ""
+
+#: short-comments.php:1
+#@ oblivion
+msgid "<span class=\"required\">*</span>"
+msgstr ""
+
+#: short-comments.php:1
+#@ oblivion
+msgid "Website"
+msgstr ""
+
+#: short-comments.php:1
+#@ oblivion
+msgid "Post"
+msgstr ""
+
+#: single.php:1
+#@ oblivion
+msgid "About "
+msgstr ""
+
+#: themeOptions/admin/country/usercountry.php:1
+#@ atticus
+msgid "- Select -"
+msgstr ""
+
+#: themeOptions/admin/country/usercountry.php:1
+#@ atticus
+msgid "Select country"
+msgstr ""
+
+#: themeOptions/admin/options-framework.php:1
+#@ atticus
+msgid "Save All Changes"
+msgstr ""
+
+#: themeOptions/admin/options-framework.php:1
+#@ atticus
+msgid "Restore Defaults Options"
+msgstr ""
+
+#: themeOptions/admin/options-framework.php:1
+#@ atticus
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: themeOptions/admin/options-framework.php:1
+#@ atticus
+msgid "Default options restored."
+msgstr ""
+
+#: themeOptions/admin/options-framework.php:1
+#@ atticus
+msgid "Options saved."
+msgstr ""
+
+#: themeOptions/admin/options-framework.php:1
+#@ atticus
+msgid "Theme Options"
+msgstr ""
+
+#: themeOptions/admin/options-medialibrary-uploader.php:1
+#@ atticus
+msgid "Options Framework Internal Container"
+msgstr ""
+
+#: themeOptions/admin/options-medialibrary-uploader.php:1
+#@ atticus
+msgid "Upload"
+msgstr ""
+
+#: themeOptions/admin/options-medialibrary-uploader.php:1
+#@ atticus
+msgid "View File"
+msgstr ""
+
+#: themeOptions/admin/options-medialibrary-uploader.php:1
+#@ atticus
+msgid "Gallery"
+msgstr ""
+
+#: themeOptions/admin/options-medialibrary-uploader.php:1
+#@ atticus
+msgid "Previously Uploaded"
+msgstr ""
+
+#: themeOptions/admin/options-sanitize.php:1
+#@ atticus
+msgid "Top Left"
+msgstr ""
+
+#: themeOptions/admin/options-sanitize.php:1
+#@ atticus
+msgid "Top Center"
+msgstr ""
+
+#: themeOptions/admin/options-sanitize.php:1
+#@ atticus
+msgid "Top Right"
+msgstr ""
+
+#: themeOptions/admin/options-sanitize.php:1
+#@ atticus
+msgid "Middle Left"
+msgstr ""
+
+#: themeOptions/admin/options-sanitize.php:1
+#@ atticus
+msgid "Middle Center"
+msgstr ""
+
+#: themeOptions/admin/options-sanitize.php:1
+#@ atticus
+msgid "Middle Right"
+msgstr ""
+
+#: themeOptions/admin/options-sanitize.php:1
+#@ atticus
+msgid "Bottom Left"
+msgstr ""
+
+#: themeOptions/admin/options-sanitize.php:1
+#@ atticus
+msgid "Bottom Center"
+msgstr ""
+
+#: themeOptions/admin/options-sanitize.php:1
+#@ atticus
+msgid "Bottom Right"
+msgstr ""
+
+#: themeOptions/admin/options-sanitize.php:1
+#@ atticus
+msgid "Scroll Normally"
+msgstr ""
+
+#: themeOptions/admin/options-sanitize.php:1
+#@ atticus
+msgid "Fixed in Place"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "General  Settings"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Upload Your Logo"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "We recommend keeping it within reasonable size."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Upload Your Favicon"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Site tab icon"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Jquery Scrollbar"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Enable the option of a smooth jquery scrollbar."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Login button in the menu"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Enable the login avatar in the menu"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Fullwidth"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Change the body of the site fullwidth."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Blog settings"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Blog category"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Insert ID of blog categories, comma separated."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Blog number of posts"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Insert number of posts that you want to show on blog, category and author pages."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "SEO"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Home title"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Enter home title."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Home description"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Enter home description."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Keywords"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Enter keywords comma separated."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Google analytics"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Enter google analytics code."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "WooCommerce"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Main shop page sidebar"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Choose page layout that you want to use on main WooCommerce page."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Single product page sidebar"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Choose page layout that you want to use on single product WooCommerce page."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Customize"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Backgrounds"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Top background"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Background for the header of the site."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Fixed background"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Set background to fixed position."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Footer background"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Background for the footer of the site."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Footer background repeat"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "You could choose to repeat the background image if you want to use a pattern."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Background colour"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Colour for the background."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Colours"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Primary Colour"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "The primary colour for the site."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Secondary Colour"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "The secondary colour for the site."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Main body colour"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "The colour for body wrapper."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Header Colour"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "The colour for the headers of the site."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Link Colour"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "The colour for the links of the site."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Button colours"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Button colour"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Button colour."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Button hover colour"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Fonts"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Selected Google Fonts for Headers"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Fifteen of the top google fonts for headers."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Selected Google Fonts for Body"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Fifteen of the top google fonts for body."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Footer"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Copyright"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "You can use HTML code in here."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Contact"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Enter email address text"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Enter the email address that will be displayed on the side block."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Enter title text above gmap"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Enter title text that will be displayed above gmap."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Enter subtitle text above gmap"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Enter subtitle text that will be displayed above gmap."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Gmap settings"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Upload Your Marker Logo For Map"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Enter location Latitude"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Enter location Latitude."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Enter location Longitude"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Enter location Longitude."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Social Media"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Enable Twitter"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Show or hide the Twitter icon that shows on the footer section."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Twitter Link"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Paste your twitter link here."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Enable Facebook"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Show or hide the Facebook icon that shows on the footer section."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Facebook Link"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Paste your facebook link here."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Enable Google+"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Show or hide the Google+ icon that shows on the footer section."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Google+ Link"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Paste your google+ link here."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Enable dribbble"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Show or hide the dribbble icon that shows on the footer section."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Dribbble link"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Paste your dribbble link here."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Enable vimeo"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Show or hide the vimeo icon that shows on the footer section."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Vimeo link"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Paste your vimeo link here."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Enable youtube"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Show or hide the youtube icon that shows on the footer section."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Youtube link"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Paste your youtube link here."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Enable twitch"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Show or hide the twitch icon that shows on the footer section."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Twitch link"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Paste your twitch link here."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Enable linkedin"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Show or hide the linkedin icon that shows on the footer section."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Linkedin link"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Paste your linkedin link here."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Enable RSS"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Show or hide the RSS icon that shows on the footer section."
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "RSS Link"
+msgstr ""
+
+#: themeOptions/options.php:1
+#@ oblivion
+msgid "Paste your RSS link here."
+msgstr ""
+
+#: themeOptions/rating.php:6
+#@ atticus
+msgid "Review Info"
+msgstr ""
+
+#: themeOptions/rating.php:26
+#@ atticus
+msgid "Over All Score"
+msgstr ""
+
+#: themeOptions/rating.php:42
+#@ atticus
+msgid "Critera 1"
+msgstr ""
+
+#: themeOptions/rating.php:46
+#@ atticus
+msgid "Critera 1 Score"
+msgstr ""
+
+#: themeOptions/rating.php:62
+#@ atticus
+msgid "Critera 2"
+msgstr ""
+
+#: themeOptions/rating.php:66
+#@ atticus
+msgid "Critera 2 Score"
+msgstr ""
+
+#: themeOptions/rating.php:82
+#@ atticus
+msgid "Critera 3"
+msgstr ""
+
+#: themeOptions/rating.php:86
+#@ atticus
+msgid "Critera 3 Score"
+msgstr ""
+
+#: themeOptions/rating.php:102
+#@ atticus
+msgid "Critera 4"
+msgstr ""
+
+#: themeOptions/rating.php:106
+#@ atticus
+msgid "Critera 4 Score"
+msgstr ""
+
+#: themeOptions/rating.php:122
+#@ atticus
+msgid "Critera 5"
+msgstr ""
+
+#: themeOptions/rating.php:126
+#@ atticus
+msgid "Critera 5 Score"
+msgstr ""
+
+#: widgets/latest_twitter/latest_twitter_widget.php:1
+#@ oblivion
+msgid "Displays your latest twitter.com updates"
+msgstr ""
+
+#: widgets/latest_twitter/latest_twitter_widget.php:1
+#@ oblivion
+msgid "Twitter user: @"
+msgstr ""
+
+#: widgets/latest_twitter/latest_twitter_widget.php:1
+#@ oblivion
+msgid "Show"
+msgstr ""
+
+#: widgets/latest_twitter/latest_twitter_widget.php:1
+#@ oblivion
+msgid "twitter updates"
+msgstr ""
+
+#: widgets/latest_twitter/latest_twitter_widget.php:1
+#@ oblivion
+msgid "Widget title:"
+msgstr ""
+
+#: widgets/latest_twitter/latest_twitter_widget.php:1
+#@ oblivion
+msgid "Include replies"
+msgstr ""
+
+#: widgets/latest_twitter/latest_twitter_widget.php:1
+#@ oblivion
+msgid "To style the output of the widget, modify"
+msgstr ""
+
+#: widgets/latest_twitter/latest_twitter_widget.php:1
+#@ oblivion
+msgid "this CSS stylesheet"
+msgstr ""
+
+#: widgets/latest_twitter/latest_twitter_widget.php:1
+#@ oblivion
+msgid "You should also back this file up before updating the plugin."
+msgstr ""
+
+#: widgets/portfoliowidget/portfoliowdg.php:1
+#@ oblivion
+msgid "Number of portfolio items to display:"
+msgstr ""
+
+#: widgets/portfoliowidget/portfoliowdg.php:1
+#@ oblivion
+msgid "Enter portfolio categories you want to exclude(comma separated) - Leave blank to show all. Ex: 47,32:"
+msgstr ""
+
+#: widgets/rating/popular-widget.php:111
+#@ oblivion
+msgid "NO Popular Post"
+msgstr ""
+
+#: widgets/rating/popular-widget.php:143
+#@ oblivion
+msgid "Category:"
+msgstr ""
+
+#: widgets/rating/popular-widget.php:147
+#@ oblivion
+msgid "No. of Posts:"
+msgstr ""
+

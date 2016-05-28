@@ -1,0 +1,35 @@
+<wpml-config>
+	<custom-field action="translate">block_1</custom-field>
+	<custom-field action="translate">block_2</custom-field>
+	<custom-field action="translate">block_3</custom-field>
+	<custom-field action="translate">block_4</custom-field>
+	<custom-field action="translate">block_5</custom-field>
+	<custom-field action="ignore">block_6</custom-field>
+	<custom-field action="ignore">block_7</custom-field>
+	<custom-field action="ignore">block_8</custom-field>
+	<custom-field action="ignore">block_9</custom-field>
+	<custom-field action="ignore">block_10</custom-field>
+	<custom-field action="ignore">block_11</custom-field>
+	<custom-field action="ignore">block_12</custom-field>
+	<custom-field action="ignore">block_13</custom-field>
+	<custom-field action="ignore">block_14</custom-field>
+	<custom-field action="ignore">block_15</custom-field>
+	<custom-field action="ignore">block_16</custom-field>
+	<custom-field action="ignore">block_17</custom-field>
+	<custom-field action="ignore">block_18</custom-field>
+	<custom-field action="ignore">block_19</custom-field>
+	<custom-field action="ignore">block_20</custom-field>
+	<custom-field action="ignore">block_21</custom-field>
+	<custom-field action="ignore">block_22</custom-field>
+	<custom-field action="ignore">block_23</custom-field>
+	<custom-field action="ignore">block_24</custom-field>
+	<custom-field action="ignore">block_25</custom-field>
+	<custom-field action="ignore">block_26</custom-field>
+	<custom-field action="ignore">block_27</custom-field>
+	<custom-field action="ignore">block_28</custom-field>
+	<custom-field action="ignore">block_29</custom-field>
+	<custom-field action="ignore">block_30</custom-field>
+	<custom-field action="ignore">block_31</custom-field>
+	<custom-field action="ignore">block_32</custom-field>
+	<custom-field action="ignore">block_33</custom-field>
+</wpml-config>

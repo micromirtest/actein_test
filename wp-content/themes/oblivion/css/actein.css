@@ -1,0 +1,798 @@
+@import url(http://fonts.googleapis.com/css?family=Black+Ops+One);
+
+
+
+body
+{
+    background: url('../img/background.jpg') no-repeat #181c30;
+    background-size: 100% auto;
+    background-attachment: scroll !important;
+}
+
+.one-field-row label
+{
+    text-transform: uppercase;
+}
+
+.container.logo
+{
+    text-align: left;
+    padding-top:40px;
+    padding-bottom: 40px;
+}
+
+.menu-main-container a
+{
+    font-size: 16px !important;
+    font-family: 'Black Ops One' !important;
+}
+
+.navbar.navbar-inverse.container
+{
+    margin-bottom: 0;
+}
+
+#sliderhome{
+    display:none;
+}
+
+footer > .span12:first-child
+{
+    display:none;
+}
+
+footer
+{
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.img-responsive
+{
+    width: 100%;
+    height: auto;
+}
+
+#home-search input[type="submit"]
+{
+    background: url('../img/search-button.jpg') no-repeat;
+    width: 46px;
+    height: 102px;
+    cursor: pointer;
+    font-size: 0;
+    float: right;
+}
+
+.mt-3{
+    margin-top:3px;
+}
+
+#home-search input[type="text"]
+{
+    width: calc(100% - 50px);
+    float: left;
+    height: 50px;
+    line-height: 50px;
+    margin-bottom: 2px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    padding-left:  40px;
+}
+
+.clearfix,
+.clear-fix
+{
+    clear: both;
+}
+
+#home-search input[type="text"].search
+{
+    background: url('../img/search-input.jpg') no-repeat 10px center;
+}
+
+#home-search input[type="text"].near
+{
+    background: url('../img/near-input.jpg') no-repeat 10px center;
+}
+
+.row-b
+{
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.row-b .col-xs-5,
+.row-b .col-xs-7
+{
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-sizing: border-box;
+}
+
+.col-xs-5
+{
+    width: 41.7%;
+}
+
+.text-right{
+    text-align:right;
+}
+
+.text-center
+{
+    text-align:center;
+}
+
+.col-xs-7{
+    width: 58.2%;
+}
+
+.one-result
+{
+    padding: 8px;
+    color: #ff8600;
+    background: #32333b;
+    margin-bottom: 8px;
+}
+
+.fancy-font
+{
+    font-size: 18px;
+    color: #ff8600;
+}
+
+.block h3:first-child, #bbpress-forums li.bbp-header, #bbpress-forums fieldset.bbp-form legend, .bbp-topic-title h3, .bbp-topics-front ul.super-sticky i.icon-comment, .bbp-topics ul.super-sticky i.icon-comment, .bbp-topics ul.sticky i.icon-comment, .bbp-forum-content ul.sticky i.icon-comment, .modal-header h3, h3.widget-title, .footer_widget h3, .widget h3, .header-colour,
+a, .dropdown-menu li > a:hover, .wallnav i, div.rating:after, footer .copyright .social a:hover, .member:hover > .member-social a,
+.font-footer,#wanna
+{
+    color: #ff8600;
+}
+
+#search-map
+{
+    height: 325px;
+}
+
+#wanna,#sub-form
+{
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+}
+
+#sub-form
+{
+    float: right;
+}
+
+#sub-form input
+{
+    height: 20px;
+    line-height: 20px;
+    padding: 0px 5px;
+    width: calc(100% - 50px);
+}
+
+#sub-form{
+    margin-bottom: 0px;
+}
+
+#sub-form p
+{
+    color: #f5eeb5;
+    margin-bottom: 0;
+}
+
+#wanna
+{
+    margin-bottom: 0px;
+    padding-left: 20px;
+    padding-top:20px;
+}
+
+#subscription-form
+{
+    margin-top:10px;
+}
+
+#sub-form img
+{
+    position:relative;
+    top:-5px;
+}
+
+.menu-new-top-menu-container li a,.widget-title
+{
+    font-size: 23px !important;
+}
+
+.newsb-title a,.fancy-font,.with-font
+{
+    font-size: 17px;
+}
+
+#wanna,.font-footer
+{
+    font-size: 26px;
+}
+
+#login-form
+{
+    background: url('../img/login.jpg') no-repeat;
+    background-size: cover;
+    padding: 50px;
+    color: #ff8600;
+}
+
+#login-text
+{
+    font-size: 100px;
+    line-height: 100px;
+}
+
+#enlist
+{
+    background: url('../img/enlist.png') no-repeat;
+    width: 285px;
+    height: 80px;
+    display: inline-block;
+}
+
+#form-itself label
+{
+    font-size: 35px;
+}
+
+#form-itself
+{
+    margin-top:24px;
+}
+
+#right-login p
+{
+    margin-bottom: 5px;
+}
+
+#form-itself input
+{
+    width: 100%;
+}
+
+#form-itself .row
+{
+    margin-bottom: 10px;
+}
+
+.italic
+{
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 300;
+}
+
+#register-form
+{
+    background: #fff;
+    padding: 20px;
+}
+
+#hidden_18,
+#hidden_13
+{
+    position: fixed;
+    top: 250px;
+    width: 100%;
+    z-index: 9999999999999999999999;
+    display:none;
+}
+
+#hidden_18 div,
+#hidden_13 div
+{
+
+    padding: 20px;
+    background: #ffefef;
+    border: 1px solid #333;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: auto;
+    z-index: 1000;
+    font-size: 15px;
+    position:relative;
+    color: #000;
+    text-align:center;
+    font-weight: bold;
+}
+
+#hidden_18 span,
+#hidden_13 span
+{
+    cursor: pointer;
+    position: absolute;
+    top: 5px;
+    text-align:center;
+    right: 5px;
+}
+
+#hidden_18
+{
+    position: fixed;
+}
+
+#register-form input[type="text"],
+#register-form input[type="email"],
+#register-form input[type="password"],
+#register-form select
+{
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    height: 37px;
+    background: #f0f0f0;
+    border: 0;
+}
+
+.one-field-row
+{
+    margin-right: 20px;
+}
+
+#register-form input[type="text"]:focus,
+#register-form input[type="password"]:focus
+{
+    background: #f0f0f0 !important;
+}
+
+#register-form h3
+{
+    font-size: 40px;
+    color: #f97c02;
+    margin-bottom: 25px;
+}
+
+#register-form label{
+    color: #000;
+    font-size: 28px;
+}
+
+#first-bigger
+{
+    margin-top:50px;
+
+}
+
+.one-field-row-bigger label
+{
+    font-size: 40px !important;
+}
+
+#lower-register-form
+{
+    font-size: 15px;
+    margin-top:50px;
+    line-height: 59px;
+}
+
+#register-button
+{
+    font-size: 0px;
+    background: url('../img/confirm.png') no-repeat;
+    width: 272px;
+    height: 59px;
+    border: 0;
+    margin-right: 10px;
+}
+
+#register-button.save
+{
+    background: url('../img/save.png') no-repeat;
+}
+
+#register-form
+{
+    display:none;
+    width: 100% !important;
+    box-sizing: border-box;
+}
+
+.message-error
+{
+    margin: 10px 0;
+    text-align:center;
+    font-size: 16px;
+    color: #e33;
+    font-weight: bold;
+}
+
+#preview
+{
+    margin-bottom: 10px;
+}
+
+#preview img{
+
+    max-width: 100%;
+    height: auto;
+}
+
+
+.message-success
+{
+    color: #3c3;
+    margin: 10px 0;
+    text-align:center;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#lockout-desc
+{
+    font-size: 16px;
+    color: #000;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+#buyout
+{
+    line-height: 12px;
+    margin-top: 0px;
+    margin-left: 30px;
+    height: 36px;
+
+    box-sizing: border-box;
+
+}
+
+#change-p
+{
+    text-align:center;
+    margin-top:30px;
+}
+
+#hi
+{
+    font-size: 30px;
+    color: #fff;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+#hi span
+{
+    color: #f97c02;
+    font-size: 30px;
+}
+
+#thep
+{
+    margin-top:20px !important;margin-bottom: 30px;
+}
+
+#thep input
+{
+    position: relative;
+    top:-2px;
+}
+
+#register-form .one-phone-row select
+{
+    display: block;
+    width: 25%;
+    float: left;
+}
+
+#register-form  .one-phone-row input[type="text"]
+{
+    display: block;
+    width: 70%;
+    float: right;
+}
+
+#welcome-soldier
+{
+    color: #fff;
+    background: url('../img/welcome-soldier.jpg');
+    background-size: cover;
+    padding: 30px;
+}
+
+#stats-column .span4
+{
+    font-size: 20px;
+    text-align:left;
+}
+
+#stats-column  .row
+{
+    margin-bottom: 12px;
+}
+
+#stats-column .span8
+{
+    font-size: 18px;
+    margin-top:7px;
+    line-height: 30px;
+    text-align:left;
+}
+
+#click-here
+{
+    font-size: 26px;
+    margin-top: 10px;
+}
+
+.col-xs-4
+{
+    font-size: 25px;
+
+    width: 140px;
+    float: left;
+    padding-left:40px;
+}
+
+.no-no
+{
+    font-size: 25px;
+}
+
+.full-width-img
+{
+
+    margin: auto;
+}
+
+#next-events
+{
+    background: url('../img/next-events-background.jpg') no-repeat;
+    background-size: cover;
+    padding: 30px;
+}
+
+#next-events-table {
+    width: 100%;
+    text-align:center;
+    margin-top:30px;
+    font-size: 25px;
+    color: #ff8600;
+    line-height: 35px;
+}
+
+#next-events-table span
+{
+    color: #ff8600;
+    font-size: 30px;
+}
+
+#next-events-table tr:nth-child(odd) td:nth-child(odd)
+{
+    background: #6b6b6b;
+}
+
+#next-events-table tr:nth-child(odd) td:nth-child(even)
+{
+    background: #000;
+}
+
+#next-events-table tr:nth-child(even)  td:nth-child(odd)
+{
+    background: #000;
+}
+
+#next-events-table tr:nth-child(even)  td:nth-child(even)
+{
+    background: #6b6b6b;
+}
+
+#next-events-table td
+{
+    cursor: pointer;
+    padding: 1px;
+}
+
+#next-events-table div
+{
+    cursor: pointer;
+}
+
+#next-events-table th
+{
+    padding-bottom: 10px;
+}
+
+.gutter-front
+{
+    margin-bottom: 0px;
+}
+
+.onsale
+{
+    display:none;
+}
+
+.no-redirect
+{
+    cursor: default!important;
+}
+
+body
+{
+    font-size: 14px;
+}
+
+
+@font-face {
+    font-family: 'MrTiger-Regular';
+    src: url('../fonts/2FCAF7_0_0.eot');
+    src: url('../fonts/2FCAF7_0_0.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/2FCAF7_0_0.woff2') format('woff2'),
+        url('../fonts/2FCAF7_0_0.woff') format('woff'),
+        url('../fonts/2FCAF7_0_0.ttf') format('truetype');}
+
+.col-xs-4 p,.no-no,.location-name,.summary.entry-summary > h1,#other-info, .one-event-showcase,.prevnext,.date-current,.the-days a,.other-day,.booking-top,.check-out,#click-here,#stats-column .span4,#hi,#register-button,#register-form label, #register-form h3,#form-itself label,#customer_login h2,.normal-page h4,.gform_title,.widget h3, .title_wrapper h1,#wanna,.menu-new-top-menu-container li a,.widget-title,.newsb-title a,.fancy-font,.with-font,.font-footer,
+.nav a
+{
+    font-family: 'MrTiger-Regular' !important;
+}
+
+#change_location_form
+{
+    margin-top: 30px;
+    font-size: 20px;
+    color: #ff8600;
+    text-align: center;
+}
+
+#the-calendar-itself
+{
+    table-layout: fixed;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+}
+
+#the-calendar-itself th,#the-calendar-itself td{
+    border: 1px solid #ccc;
+}
+
+@media all and (max-width: 768px)
+{
+    #the-calendar-itself
+    {
+        table-layout: auto;
+
+    }
+}
+
+.related.products{
+    display:none;
+}
+
+
+
+/* by Alina */
+@media all and (max-width: 334px)
+{
+    #change_location{
+        max-width: 100%;
+    }
+}
+table { 
+    width: 100%; 
+    border-collapse: collapse; 
+}
+/* Zebra striping */
+tr:nth-of-type(odd) { 
+    background: #eee; 
+}
+th { 
+    background: #333; 
+    color: white; 
+    font-weight: bold; 
+}
+td, th { 
+    padding: 6px; 
+    border: 1px solid #ccc; 
+    text-align: left; 
+}
+@media only screen and (max-width: 968px) and (min-width: 768px){    
+    #login-form div.row div.span4{
+        width:45%;
+    }
+    #right-login{
+        clear: both;
+        display: block;
+        float: none;
+        width: 100% !important;
+    }
+}
+@media 
+only screen and (max-width: 580px) {
+    #sub-form{
+        display: block;
+        margin: 0px auto;
+        width: 80%;
+        float: none;
+    }
+    #sub-form p{
+        font-size:30px;
+        text-align:center;
+    } 
+    #sub-form input{
+        font-size:30px;        
+    } 
+    #next-events-table span{
+        font-size:20px !important;
+    }
+    #next-events-table{
+        font-size:20px !important;
+    }
+    #next-events,.normal-page{
+        padding-left:0px !important;
+        padding-right:0px !important;
+    }
+    #form-itself input {
+        width: 88% !important;
+    }
+    #sub-form input {
+        height: 30px;
+        line-height: 20px;
+        padding: 0px 5px;
+        width: calc(100% - 15px);
+    }
+    #wanna{
+        width:100%;
+    }
+    #enlist {
+        background-size: 88% 100% !important;
+    }
+    #sub-form{
+        display: block;
+        clear: both;
+        float: none;
+    }
+    #login-form {
+        padding: 50px 10px !important;
+    }
+    /* Force table to not be like tables anymore */
+    table, thead, tbody, th, td, tr { 
+        display: block; 
+    }
+
+    /* Hide table headers (but not display: none;, for accessibility) */
+    thead tr { 
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+    }
+
+    tr { border: 1px solid #ccc; }
+
+    td { 
+        /* Behave  like a "row" */
+        border: none;
+        border-bottom: 1px solid #eee; 
+        position: relative;
+        padding-left: 40% !important; 
+    }
+
+    td:before { 
+        /* Now like a table header */
+        position: absolute;
+        /* Top/left values mimic padding */
+        top: 6px;
+        left: 6px;
+        width: 45%; 
+        padding-right: 10px; 
+        white-space: nowrap;
+    }
+
+    /*
+    Label the data
+    */
+    td:nth-of-type(1):before { content: "Event"; }
+    td:nth-of-type(2):before { content: "Type"; }
+    td:nth-of-type(3):before { content: "Date/time"; }
+    td:nth-of-type(4):before { content: "Place"; }
+}

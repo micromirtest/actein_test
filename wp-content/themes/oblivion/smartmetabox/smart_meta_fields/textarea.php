@@ -1,0 +1,1 @@
+<textarea name="<?php echo $id?>" id="<?php echo $id?>" rows="5" cols="100" class="custom"><?php echo $value?></textarea>
